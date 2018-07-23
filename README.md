@@ -10,7 +10,7 @@ This library offers a production-ready and maintained Keycloak Passport connecto
 
 ## Why? Hasn't this already been done?
 
-To a certain extent, yes. There are about 3 to 4 repos that brand themselves as 'Keycloak Passport', yet not a single one of them is actively maintained and most of them are either completely empty, **allows using multiple realms**, only implement part of the protocol, and/or don't fetch the user's data from Keycloak. There also exists a dedicated NodeJS connector by the Keycloak project itself, however, it is unusable if you are seeking to have Keycloak as 'yet another' passport strategy in your app. This project fills that gap.
+To a certain extent, yes. There are about 3 to 4 repos that brand themselves as 'Keycloak Passport', yet not a single one of them is actively maintained and most of them are either completely empty, don't allow using multiple realms, only implement part of the protocol, and/or don't fetch the user's data from Keycloak. There also exists a dedicated NodeJS connector by the Keycloak project itself, however, it is unusable if you are seeking to have Keycloak as 'yet another' passport strategy in your app. This project fills that gap.
 
 ## Usage
 
