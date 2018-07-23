@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/exlinc/keycloak-passport/issues"
   },
-  "homepage": "https://github.com/exlinc/keycloak-passport#readme"
+  "homepage": "https://github.com/exlinc/keycloak-passport#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
 }

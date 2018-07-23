@@ -1,4 +1,4 @@
-export default class KeycloakEnvConfig {
+module.exports = class KeycloakEnvConfig {
   constructor(inputOptions) {
     const defaultOptions = {
       host: process.env.KEYCLOAK_HOST,
