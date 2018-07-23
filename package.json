@@ -1,6 +1,6 @@
 {
   "name": "@exlinc/keycloak-passport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flexible Keycloak Passport strategy (with multi-realm support) by EXL Inc.",
   "main": "index.js",
   "scripts": {
