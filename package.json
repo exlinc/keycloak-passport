@@ -1,0 +1,25 @@
+{
+  "name": "@exlinc/keycloak-passport",
+  "version": "1.0.0",
+  "description": "Flexible Keycloak Passport strategy (with multi-realm support) by EXL Inc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exlinc/keycloak-passport.git"
+  },
+  "keywords": [
+    "keycloak",
+    "passport",
+    "exlinc",
+    "keycloak-passport"
+  ],
+  "author": "EXL Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/exlinc/keycloak-passport/issues"
+  },
+  "homepage": "https://github.com/exlinc/keycloak-passport#readme"
+}
