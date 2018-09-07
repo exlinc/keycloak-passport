@@ -73,6 +73,10 @@ router.get(
 );
 ```
 
+## Compatability with next-auth
+
+There are some known issues with using this passportjs strategy with the latest versions of next-auth. Follow the discussion [here](https://github.com/exlinc/keycloak-passport/issues/1).
+
 ## Contributing/feedback
 
 All forms of contribution are welcome via Issues and Pull-requests to this repo
